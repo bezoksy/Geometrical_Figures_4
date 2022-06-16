@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "HUHbs+3mE4NiuIj7GHV5R1G0UdItvDa64BateNJ8vKoxwfqP0iVWyNCDPzyxoeih6QfBr80OLKne3QFoPJM52w==",
+  "success": true,
+  "projectFilePath": "D:\\study ktits\\Drygin\\GitHub\\Geometrical_Figures_4\\GeometricFigures_3\\GeometricFigures_3\\GeometricFigures_3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ильяс\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\Ильяс\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Ильяс\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Ильяс\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
